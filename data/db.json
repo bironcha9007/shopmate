@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 10001,
+            "name": "Lips Addict",
+            "price": 25000,
+            "image_url": "assets/Kit_Labiales_Lip_Addict.png",
+       
+            "in_stock": true
+        },
+        {
+            "id": 10002,
+            "name": "Brochas Coral",
+            "price": 45000,
+            "image_url": "assets/Kit_Brochas_Coral.png",
+       
+            "in_stock": true
+        },
+        {
+            "id": 10003,
+            "name": "Sombras Duo Harm",
+            "price": 8000,
+            "image_url": "assets/Sombras_Duo_Harm.png",
+        
+            "in_stock": true
+        },
+        {
+            "id": 10004,
+            "name": "Desmaquilladora",
+            "price": 10000,
+            "image_url": "assets/Toalla_Desmaquilladora.png",
+    
+            "in_stock": false
+        },
+        {
+            "id": 10005,
+            "name": "Labial Mayte",
+            "price": 12000,
+            "image_url": "assets/Labial_Mayte.png",
+  
+            "in_stock": false
+        }
+    ]
+}
